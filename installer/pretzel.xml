@@ -5,7 +5,7 @@
 	      artifact="pretzel"
 	      version="${PROJECT_VERSION}"
 	      vcs-id="${PROJECT_VERSION_VCS}"
-	      extension="tar.gz">
+	      extension="zip">
 		<license name="GPL-2.0"/>
 		<author name="Christoph Thelen" url="https://www.hilscher.com/" />
 		<description>
